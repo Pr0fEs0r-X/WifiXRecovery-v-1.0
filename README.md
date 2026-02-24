@@ -4,7 +4,7 @@ Herramienta diseñada para auditores, administradores de sistemas y usuarios que
 <img width="224" height="85" alt="multiplataforma" src="https://github.com/user-attachments/assets/f8a2d2e0-f3ad-42fd-92fe-ba7bf649f56a" />
 
 
-A diferencia de otros scripts, WiFi X Recovery está construida para ser universal: funciona en los tres principales sistemas operativos y detecta claves en múltiples idiomas automáticamente.
+A diferencia de otros scripts, WiFi X Recovery está construida para ser universal: funciona en los tres principales sistemas operativos y detecta claves en múltiples idiomas automáticamente. <B>(si necesitas el script para LINUX- MAcos !CONTACTAME!)</B>
 
 
 <img width="502" height="432" alt="ventana" src="https://github.com/user-attachments/assets/3d4735f9-8d97-4295-b22f-38ad18a3a711" />
