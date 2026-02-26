@@ -1,4 +1,4 @@
-# WifiXRecovery-v-1.0
+# WifiXRecovery v 1.0
 Herramienta diseñada para auditores, administradores de sistemas y usuarios que necesitan recuperar las contraseñas de redes WiFi guardadas en sus equipos.  A diferencia de otros scripts, WiFi X Recovery está construida para ser universal: funciona en los tres principales sistemas operativos y detecta claves en múltiples idiomas automáticamente.
 
 <img width="224" height="85" alt="multiplataforma" src="https://github.com/user-attachments/assets/f8a2d2e0-f3ad-42fd-92fe-ba7bf649f56a" />
