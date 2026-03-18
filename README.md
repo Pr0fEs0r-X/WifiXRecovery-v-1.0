@@ -68,7 +68,18 @@ text
 │<img width="548" height="127" alt="estructura" src="https://github.com/user-attachments/assets/7592e7d4-2488-49d6-9e5b-ee6bd19254a1" />
 
 
- 
+ ---
+
+## 👤 Autor y Empresa
+
+Desarrollado con fines educativos y de seguridad informática.
+
+*   **Creador:** [Rodolfo Hernandez Baz ](https://www.rodolfohbaz.info/)
+*   **Desarrollador Principal:** [Pr0fEs0r-X](https://github.com/Pr0fEs0r-X) 
+*   **Compañía:** [Rhino Forensic & Reverse toolkit v 1.0 ](https://rhinosecurity.xyz/)
+
+---
+
  
  
 <b>⚠️ Aviso Legal y Ético </b>
